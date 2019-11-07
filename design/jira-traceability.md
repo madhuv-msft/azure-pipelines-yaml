@@ -120,3 +120,4 @@ integrations:
     - production     
     environmentType: '{"stage-US":"staging"; "East-US": "production";}' 
 ```
+ 
